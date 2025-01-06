@@ -1,0 +1,1 @@
+../02_SYN/Netlist/TETRIS_SYN.v

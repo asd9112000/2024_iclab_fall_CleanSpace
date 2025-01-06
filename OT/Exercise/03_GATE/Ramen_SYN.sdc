@@ -1,0 +1,1 @@
+../02_SYN/Netlist/Ramen_SYN.sdc

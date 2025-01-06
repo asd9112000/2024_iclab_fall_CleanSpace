@@ -1,0 +1,1 @@
+../02_SYN/Netlist/CNN_SYN.v
